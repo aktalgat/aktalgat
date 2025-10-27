@@ -1,6 +1,6 @@
 ## Hi, I'm Talgat Akunsartov 👋
 
-- 🧑‍💻 Software Developer
+- 🧑‍💻 Software Engineer
 - 🌍 Based in Chicago, USA
 - 🚀 Building backend solutions with **Java, Kafka, and AWS**
 - 🌐 My personal homepage [https://talgat.io](https://talgat.io)
